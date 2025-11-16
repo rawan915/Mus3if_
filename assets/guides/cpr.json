@@ -1,0 +1,34 @@
+{
+  "title": "CPR Guide",
+  "steps": [
+    {
+      "title": "Assess the Situation",
+      "description": "Ensure the surrounding area is safe for both you and the victim. Check for responsiveness by gently tapping the person's shoulders and shouting loudly, 'Are you okay?' Look for any signs of movement or sound."
+    },
+    {
+      "title": "Call for Help",
+      "description": "If the person is unresponsive, immediately shout for someone nearby to call your local emergency medical services (e.g., 123 in Egypt) and to fetch an Automated External Defibrillator (AED) if available. If you are alone, make the call yourself before starting CPR."
+    },
+    {
+      "title": "Open Airway",
+      "description": "Carefully roll the person onto their back on a firm, flat surface. Use the head-tilt/chin-lift maneuver: place one hand on their forehead to tilt the head back gently, and use the fingers of your other hand to lift the chin forward. This opens the airway by moving the tongue away from the back of the throat."
+    },
+    {
+      "title": "Check Breathing",
+      "description": "While keeping the airway open, look for chest movement, listen for sounds of breathing near their mouth and nose, and feel for air on your cheek for no more than 10 seconds. Occasional gasps are not normal breathing and indicate a need for CPR."
+    },
+    {
+      "title": "Start Chest Compressions",
+      "description": "Kneel beside the person. Place the heel of one hand in the center of their chest (on the lower half of the breastbone). Place your other hand on top and interlock your fingers. Push down hard and fast, compressing the chest at least 2 inches (5 cm) for adults, at a rate of 100 to 120 compressions per minute. Allow the chest to recoil completely between compressions."
+    },
+    {
+      "title": "Rescue Breaths (if trained)",
+      "description": "If you are trained in CPR and willing to give rescue breaths, after 30 compressions, reopen the airway, pinch the nose shut, and give 2 breaths, each over about 1 second, making the chest rise visibly. If the chest does not rise, reposition the airway and try again. Resume compressions immediately."
+    },
+    {
+      "title": "Continue CPR",
+      "description": "Continue the cycle of 30 chest compressions to 2 rescue breaths (if providing breaths). If you are untrained or unwilling to give breaths, provide 'Hands-Only' CPR with continuous chest compressions. Do not stop except if an AED is ready to analyze, the scene becomes unsafe, the person shows obvious signs of life, or a trained medical professional takes over."
+    }
+  ],
+  "video": "https://www.youtube.com/watch?v=8YREVVM2n7g"
+}

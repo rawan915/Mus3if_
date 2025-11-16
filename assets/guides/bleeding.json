@@ -1,0 +1,30 @@
+{
+  "title": "Bleeding Guide",
+  "steps": [
+    {
+      "title": "Ensure Safety",
+      "description": "Make sure the environment is safe before helping the injured person. Avoid putting yourself in danger from traffic, fire, or sharp objects. If available, wear disposable gloves or use any clean barrier to prevent direct contact with blood and reduce the risk of infection."
+    },
+    {
+      "title": "Apply Pressure",
+      "description": "Place a clean cloth, sterile bandage, or your hand directly on the wound and press firmly. Continuous pressure helps blood platelets and clotting factors seal the damaged blood vessels. Keep pressing steadily for several minutes to allow the clot to form naturally."
+    },
+    {
+      "title": "Maintain Pressure",
+      "description": "If the first cloth becomes soaked with blood, do not remove it — instead, place another clean cloth or dressing on top and keep applying pressure. Removing soaked dressings can tear the forming clot and restart bleeding. Maintain firm, even pressure until the bleeding slows down noticeably."
+    },
+    {
+      "title": "Elevate if Possible",
+      "description": "If the wound is on a limb, gently raise it above the level of the heart to help reduce blood flow and internal pressure in the injured area. Keep the limb still and supported while elevated to prevent further tissue damage."
+    },
+    {
+      "title": "Use a Tourniquet (last resort)",
+      "description": "Only use a tourniquet if the bleeding is severe and cannot be controlled with direct pressure. Apply it 5–7 cm above the wound, avoiding joints. Tighten it until the bleeding stops completely, and note the exact time it was applied. Prolonged use can damage tissues, so professional help should be sought as soon as possible."
+    },
+    {
+      "title": "Seek Medical Help",
+      "description": "Call emergency services immediately if the bleeding is heavy, spurting, or won’t stop after 10 minutes of pressure. Keep monitoring the injured person for signs of shock such as pale skin, dizziness, or shallow breathing. Keep them calm, warm, and lying flat until help arrives."
+    }
+  ],
+  "video": "https://www.youtube.com/watch?v=8sEijZkfUHI"
+}

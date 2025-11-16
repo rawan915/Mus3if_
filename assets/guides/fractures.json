@@ -1,0 +1,30 @@
+{
+  "title": "Fractures Guide",
+  "steps": [
+    {
+      "title": "Ensure Safety",
+      "description": "Before approaching, carefully assess the surroundings for ongoing dangers such as traffic, fire, falling debris, or unstable structures. Your safety is paramount. Only proceed if you can help without endangering yourself."
+    },
+    {
+      "title": "Control Bleeding",
+      "description": "If there is any bleeding, wear gloves if available. Cover the wound with a sterile gauze pad or a clean cloth and apply steady, direct pressure. Do not attempt to clean a major wound. If bleeding soaks through, add more padding on top; do not remove the original dressing."
+    },
+    {
+      "title": "Immobilize the Limb",
+      "description": "Instruct the person to keep the injured area as still as possible. Do not try to realign the bone or push a protruding bone back in. Support the limb in the position you found it by placing soft padding (like towels or clothing) around it for stability and comfort."
+    },
+    {
+      "title": "Support with Splint",
+      "description": "To prevent further injury, immobilize the joints above and below the fracture. Use a commercially available splint or improvise with a firm object like a board, rolled-up newspaper, or even a folded blanket. Pad the splint for comfort and secure it with bandages or strips of cloth, tying firmly but not so tight as to restrict circulation."
+    },
+    {
+      "title": "Apply Cold Pack",
+      "description": "Wrap an ice pack, a bag of frozen vegetables, or cold drinks in a thin towel or cloth. Apply it to the injured area for 15-20 minutes to reduce swelling, pain, and bleeding. Never apply ice directly to the skin, as it can cause frostbite. Check the skin beneath the splint and bandages regularly for color, warmth, and sensation."
+    },
+    {
+      "title": "Seek Medical Help",
+      "description": "Call your local emergency medical services (e.g., 123 in Egypt) immediately. Clearly state that you have a suspected fracture. Keep the person calm, still, and warm. Monitor their level of response and breathing until professional help arrives and takes over. Do not give them anything to eat or drink."
+    }
+  ],
+  "video": "https://www.youtube.com/watch?v=sPzXAVNVJr0"
+}

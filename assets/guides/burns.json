@@ -1,0 +1,30 @@
+{
+  "title": "Burns Guide",
+  "steps": [
+    {
+      "title": "Ensure Safety",
+      "description": "Remove the person from the source of heat immediately and ensure the area is safe before giving care. Turn off any flames or electrical sources if possible. Avoid touching the burned skin directly, and never remove clothing stuck to the burn. Make sure both you and the victim are out of danger before starting treatment."
+    },
+    {
+      "title": "Cool the Burn",
+      "description": "Cool the burn with cool (not cold) running water for 10–20 minutes to reduce pain, swelling, and tissue damage. Avoid using ice or icy water, as extreme cold can worsen the injury. If running water isn’t available, use a clean, cool, wet cloth or compress instead."
+    },
+    {
+      "title": "Remove Tight Items",
+      "description": "Gently remove rings, watches, belts, or tight clothing near the burned area as soon as possible, before swelling begins. Once the skin starts to swell, these items can restrict blood flow and cause further injury."
+    },
+    {
+      "title": "Protect the Burn",
+      "description": "After cooling, cover the burn with a sterile, non-stick dressing or a clean, lint-free cloth. This helps protect the area from infection and irritation. Avoid wrapping too tightly — the dressing should sit loosely to allow air circulation and prevent pressure on the burn."
+    },
+    {
+      "title": "Avoid Ointments",
+      "description": "Do not apply butter, oils, toothpaste, or ointments to a burn, as they can trap heat and cause infection. Also, avoid breaking blisters — they act as a natural barrier to protect the underlying skin from bacteria."
+    },
+    {
+      "title": "Seek Medical Help",
+      "description": "Call emergency services or seek professional care if the burn is large, deep, or located on the face, hands, feet, genitals, or over a major joint. Also get help if the person shows signs of shock, difficulty breathing, or if the burn was caused by chemicals or electricity."
+    }
+  ],
+  "video": "https://www.youtube.com/watch?v=TLr2qsEhpC8"
+}
